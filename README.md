@@ -42,5 +42,7 @@ schedule campaigns effectively and allocate marketing spend efficiently.
 - Funnel and checkout analysis
 - Executive summary and recommendations
 
+- [Download report](reports/BrightCart_Executive_Summary.pdf)
+
 ## Notes
 Data has been anonymised or represented in a case-study format to protect confidentiality.
